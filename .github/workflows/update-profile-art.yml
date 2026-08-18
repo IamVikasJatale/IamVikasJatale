@@ -1,6 +1,5 @@
 name: Update profile art
 
-
 "on":
   schedule:
     - cron: "0 * * * *"   # Check every hour
